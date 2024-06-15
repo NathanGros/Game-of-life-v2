@@ -1,7 +1,0 @@
-(executable
-    (name gol)
-    (libraries raylib))
-(env
-  (dev
-    (flags (:standard -w -26 -w -32 -w -27 -w -37))))
-

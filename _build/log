@@ -1,0 +1,17 @@
+# dune build --profile=release
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/gnathan/.cache/dune/db
+# Workspace root:
+# /home/gnathan/Desktop/info_projects/cellular_automata/game_of_lifev3
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Release
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/gnathan/.opam/5.0.0/bin/ocamlc.opt -config > /tmp/dune_45321b_output

@@ -1,7 +1,3 @@
---WRONG FILES!!!!!--
-
-
-
 --INFO--
 
 Conway's Game of Life
